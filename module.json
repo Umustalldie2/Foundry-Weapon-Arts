@@ -8,7 +8,7 @@
         {
             "name": "Alldey",
             "discord": "umustalldie2",
-            "url": "https://www.mywebsite.com/"
+            "url": "https://github.com/Umustalldie2/Foundry-Weapon-Arts/blob/main/module.json"
         }
     ],
     "minimumCoreVersion": "0.8.6",
@@ -28,6 +28,6 @@
             "system": "dnd5e"
         }
     ],
-    "manifest": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/module.json",
-    "download": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/my-content-module.zip"
+    "manifest": "https://github.com/Umustalldie2/Foundry-Weapon-Arts/blob/main/module.json",
+    "download": "https://github.com/Umustalldie2/Foundry-Weapon-Arts/blob/main/module.json"
   }
