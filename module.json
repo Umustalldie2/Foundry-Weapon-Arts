@@ -1,0 +1,33 @@
+{
+    "id": "umad2-weapon-arts",
+    "name": "umad2-weapon-arts",
+    "title": "Weapon Arts",
+    "description": "An adaptation and expansion on Baldur's Gate 3's weapon arts system",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Alldey",
+            "discord": "umustalldie2",
+            "url": "https://www.mywebsite.com/"
+        }
+    ],
+    "minimumCoreVersion": "0.8.6",
+    "compatibleCoreVersion": "10.291",
+    "compatibility": {
+        "minimum": "0.8.6",
+        "verified": "10"
+    },
+    "packs": [
+        
+        {
+            "name": "weapon-arts",
+            "label": "Weapon Arts",
+            "path": "./packs/items.db",
+            "entity": "Item",
+            "type": "Item",
+            "system": "dnd5e"
+        }
+    ],
+    "manifest": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/module.json",
+    "download": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/my-content-module.zip"
+  }
