@@ -22,7 +22,7 @@
         {
             "name": "weapon-arts",
             "label": "Weapon Arts",
-            "path": "./packs/items.db",
+            "path": "items.db",
             "entity": "Item",
             "type": "Item",
             "system": "dnd5e"
